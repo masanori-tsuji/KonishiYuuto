@@ -1,0 +1,93 @@
+﻿  warning.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  ui.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  titlebg.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  title.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  surroundings.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  spark.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  sound.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  shock.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  shield.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  score.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene2d.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  resultbg.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  result.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  renderer.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  remain.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  ranking.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  polygon.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  player.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  number.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  muzzle_flash.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  message.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  manager.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  light.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  laser.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  keyboard.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  joypad.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  icon.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  hpbar.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  game.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  gage.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  flash.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fire.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fade.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  explosion.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  controller.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  bullet.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  boss.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  bg.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  alert.cpp
+c:\users\student\desktop\2年_2dシューティングゲーム\2年_2dシューティングゲーム\main.h(14): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
