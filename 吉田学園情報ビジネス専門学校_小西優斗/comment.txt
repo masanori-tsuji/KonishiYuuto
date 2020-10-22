@@ -1,0 +1,18 @@
+# コメント
+ # 1
+	enemy.cpp,
+	大量の#defineで敵の調整がしづらいので
+	ゲームデザインに影響するものは外部ファイルに出す。
+
+ # 2
+	void CGame::Uninit(void)
+	初期化で使ったものは解放する。
+
+ # 3
+	bool CLaser::Collision(void)
+	{
+		for (int nCount = 0; nCount < MAX_POLYGON; nCount++)
+		{
+			★CScene *pScene = NULL;
+			if (pScene == NULL)
+	意味をなさないコードがあると一度も確認してないように見えてしまうので注意
